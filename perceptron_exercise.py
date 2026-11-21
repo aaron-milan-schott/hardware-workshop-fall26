@@ -19,7 +19,7 @@ over the USB cable to your Arduino so the servo and LED react.
 Fill in every blank marked with ____
 Do not change anything else.
 
-Run it with:   python3 perceptron.py
+Run it with:   python3 perceptron_exercise.py
 If Python complains, read the LAST line of the error first. It tells you
 what went wrong. The lines above it only tell you where.
 """
